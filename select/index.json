@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Hug",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-04T12:38:50.336842Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "백허그 Back Hug",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/01_백허그_Back_Hug_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "백허그 (Back Hug)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/02_백허그_(Back_Hug)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hug My Soul",
+      "artist": "Saint Etienne",
+      "has_synced": true,
+      "path": "select/03_Hug_My_Soul_Saint_Etienne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hug My Soul (Kodacolor House mix)",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/04_Hug_My_Soul_(Kodacolor_House_mix)_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hug My Soul (Motiv 8 Mix)",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/05_Hug_My_Soul_(Motiv_8_Mix)_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hug My Soul (Motiv-8 mix)",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/06_Hug_My_Soul_(Motiv-8_mix)_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hug My Soul (Secret Knowledge Limbo mix)",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/07_Hug_My_Soul_(Secret_Knowledge_Limbo_mix)_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hug My Soul (alternate album version)",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/08_Hug_My_Soul_(alternate_album_version)_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Danzig Needs a Hug",
+      "artist": "Sugar Ray",
+      "has_synced": false,
+      "path": "select/09_Danzig_Needs_a_Hug_Sugar_Ray.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Need A Hug",
+      "artist": "The Ataris",
+      "has_synced": false,
+      "path": "select/10_You_Need_A_Hug_The_Ataris.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hug My Soul (Demo)",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/11_Hug_My_Soul_(Demo)_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hug My Soul (Sure Is Pure Kodacolour House mix)",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/12_Hug_My_Soul_(Sure_Is_Pure_Kodacolour_House_mix)_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hold Me, Hug Me, Rock Me",
+      "artist": "Gene Vincent",
+      "has_synced": false,
+      "path": "select/13_Hold_Me,_Hug_Me,_Rock_Me_Gene_Vincent.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Jane Fakes a Hug",
+      "artist": "The Wrens",
+      "has_synced": true,
+      "path": "select/14_Jane_Fakes_a_Hug_The_Wrens.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hold Me Hug Me Rock Me",
+      "artist": "Gene Vincent",
+      "has_synced": true,
+      "path": "select/15_Hold_Me_Hug_Me_Rock_Me_Gene_Vincent.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hug",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_Hug_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
