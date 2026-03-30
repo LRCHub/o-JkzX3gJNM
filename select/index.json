@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Hug",
   "base_artist": "Mrs. GREEN APPLE",
-  "createdAt": "2025-12-04T12:38:50.336842Z",
+  "createdAt": "2026-03-30T12:24:35.265772Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,15 @@
       "artist": "Mrs. GREEN APPLE",
       "has_synced": false,
       "path": "select/pl_01_Hug_Mrs._GREEN_APPLE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Hug",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/localdb_01_Hug_Mrs._GREEN_APPLE.txt",
+      "repo_name": "o-JkzX3gJNM"
     }
   ]
 }
